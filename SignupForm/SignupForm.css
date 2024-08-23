@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins";
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.Bodya{
+    width: 360px;
+    height: 800px;
+    border: 1px solid  rgba(0, 0, 0, 0.4);
+    margin: 120px auto;
+}
+.Signup{
+    margin-top: 119px;
+    margin-left: 140px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+.Box input{
+    width: 312px;
+    height: 48px;
+    margin-left: 24px;
+    margin-top: 48px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+}
+.Box1 input{
+    width: 312px;
+    height: 48px;
+    margin-left: 24px;
+    margin-top: 48px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    margin-top: 28px;
+}
+.Box2 input{
+    width: 312px;
+    height: 48px;
+    margin-left: 24px;
+    margin-top: 48px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    margin-top: 28px;
+}
+.Box3 input{
+    width: 312px;
+    height: 48px;
+    margin-left: 24px;
+    margin-top: 48px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    margin-top: 28px;
+}
+.Button button{
+    width: 312px;
+    height: 48px;
+    background-color    : rgba(14, 100, 210, 1);
+    margin-top: 15px;
+    margin-left: 24px;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    border: none;
+    border-radius: 5px;
+}
+.ALREDY{
+    margin-top: 22px;
+    margin-left: 64px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+}
+.loginb{
+    margin-top: 22px;
+    margin-left: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(47, 137, 252, 1);
+}
+.mid{
+    display: flex;
+    flex-direction: row;
+}
+.line1{
+    width: 139px;
+    height: 1px;
+    margin-left: 24px;
+    margin-top: 32px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.Ord{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 21px;
+    margin-left: 8px;
+}
+.line2{
+    width: 139px;
+    height: 1px;
+    margin-left: 9px;
+    margin-top: 32px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.Or{
+    display: flex;
+    flex-direction: row;
+}
+.Login_with_Facebook{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: rgba(24, 119, 242, 1);
+    margin-top: 24px;
+    margin-left: 24px;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 5px 15px 0px rgba(76, 111, 224, 0.5);
+    cursor: pointer;
+}
+.imgg{
+    margin-top: 11px;
+    margin-left: 8px;
+}
+.Login_with_Google{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    margin-top: 24px;
+    margin-left: 24px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px 0px rgba(76, 111, 224, 0.5);
+    background-color: #FFFFFF;
+    border: 0px;
+    cursor: pointer;
+}
+.textfb{
+    margin-top: 15px;
+    margin-left: 49px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.9);
+}
+.textgg{
+    margin-top: 15px;
+    margin-left: 59px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.imglock{
+    transform: translateX(296px) translateY(-35px);
+}
+.Box input{
+    padding: 5px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.Box1 input{
+    padding: 5px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.Box2 input{
+    padding: 5px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.Box3 input{
+    padding: 5px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.loginb a{
+    color: rgba(47, 137, 252, 1);
+}
+
